@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm PITUSH SRIVASTAVA</h1>
+<h1 align="center">Hi 👋, I'm PIYUSH SRIVASTAVA</h1>
 <h3 align="center">A passionate Java full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyush-srivastava16&label=Profile%20views&color=0e75b6&style=flat" alt="piyush-srivastava16" /> </p>
