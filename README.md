@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://piyush-srivastava.netlify.app/](https://piyush-srivastava.netlify.app/)
 
-- 💬 Ask me about **CORE JAVA WITH DSA & DATABASES.**
-
 - 📫 How to reach me **piyushsrivastava7275@gmail.com**
 
 - LEETCODE :- https://leetcode.com/u/_Piyush_Srivastava_/
