@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyush-srivastava16" alt="piyush-srivastava16" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot & Hibernate .**
+- 🌱 I’m currently learning **Spring Boot & Spring AI .**
 
 <!---  - 👨‍💻 All of my projects are available at [https://piyush-srivastava.netlify.app/](https://piyush-srivastava.netlify.app/) -->
 
