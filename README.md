@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring Boot & Spring AI .**
 
-- INTERSHIPS
+ INTERSHIPS
 * Intern, INFOSYS Springboard
 * Java Full Stack Developer Intern, JSPIDERS 
 * Artificial Intelligence & Machine learning intern, EDUNET FOUNDATAION 
