@@ -7,6 +7,11 @@
 
 - 🌱 I’m currently learning **Spring Boot & Spring AI .**
 
+- INTERSHIPS
+* Intern, INFOSYS Springboard
+* Java Full Stack Developer Intern, JSPIDERS 
+* Artificial Intelligence & Machine learning intern, EDUNET FOUNDATAION 
+
 <!---  - 👨‍💻 All of my projects are available at [https://piyush-srivastava.netlify.app/](https://piyush-srivastava.netlify.app/) -->
 
 - 📫 How to reach me **piyushsrivastava7275@gmail.com**
