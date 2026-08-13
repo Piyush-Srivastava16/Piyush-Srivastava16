@@ -11,12 +11,13 @@
 <p align="left">
 </p>
 
+- 🔭 I’m currently working on some **Backend stuffs and SpidermanVerse.**
 - 🌱 I’m currently learning **Spring Boot & Spring AI .**
 
  INTERSHIPS
 * Intern, INFOSYS Springboard
 * Java Full Stack Developer Intern, JSPIDERS 
-* Artificial Intelligence & Machine learning intern, EDUNET FOUNDATAION 
+* Artificial Intelligence & Machine learning intern, EDUNET FOUNDATAION x IBM 
 
 <!---  - 👨‍💻 All of my projects are available at [https://piyush-srivastava.netlify.app/](https://piyush-srivastava.netlify.app/) -->
 
