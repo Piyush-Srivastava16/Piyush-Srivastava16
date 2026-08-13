@@ -17,7 +17,7 @@
  INTERSHIPS
 * Intern, INFOSYS Springboard
 * Java Full Stack Developer Intern, JSPIDERS 
-* Artificial Intelligence & Machine learning intern, EDUNET FOUNDATAION x IBM 
+* Artificial Intelligence & Machine learning intern, EDUNET FOUNDATION x IBM 
 
 <!---  - 👨‍💻 All of my projects are available at [https://piyush-srivastava.netlify.app/](https://piyush-srivastava.netlify.app/) -->
 
